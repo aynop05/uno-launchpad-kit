@@ -1,0 +1,34 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.out
+*.d
+*.o
+*.a
+
+# Arduino backup files
+*.bak
+*.swp
+*.swo
+
+# System files (macOS, Windows)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary/generated folders
+build/
+dist/
+tmp/
+cache/
+__pycache__/
+
+# Word or LibreOffice temp files
+~$*
